@@ -1,0 +1,10 @@
+.custom-card-image{
+    height: 150px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-navbar{
+    color: black;
+}
