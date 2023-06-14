@@ -12,4 +12,4 @@
 Services is an online learning platform that allows users to choose from a variety of courses, each of which is designed to teach a specific skill or topic. Users can also create their own courses, which can be shared with others. The app also includes a dashboard for admins, which allows them to register users, create new courses, and edit existing courses.
 
 Tools:
-HTML, Bootstrap, PHP and MySQL
+HTML, Bootstrap, Javascript, PHP and MySQL
